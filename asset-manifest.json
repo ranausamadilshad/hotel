@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/hotel/static/css/main.5c40695d.chunk.css",
+    "main.js": "/hotel/static/js/main.7b6c6938.chunk.js",
+    "main.js.map": "/hotel/static/js/main.7b6c6938.chunk.js.map",
+    "runtime-main.js": "/hotel/static/js/runtime-main.55b95c51.js",
+    "runtime-main.js.map": "/hotel/static/js/runtime-main.55b95c51.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/hotel/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5534ea12.chunk.js": "/hotel/static/js/2.5534ea12.chunk.js",
+    "static/js/2.5534ea12.chunk.js.map": "/hotel/static/js/2.5534ea12.chunk.js.map",
+    "static/js/3.269c57a7.chunk.js": "/hotel/static/js/3.269c57a7.chunk.js",
+    "static/js/3.269c57a7.chunk.js.map": "/hotel/static/js/3.269c57a7.chunk.js.map",
+    "index.html": "/hotel/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/hotel/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.5c40695d.chunk.css.map": "/hotel/static/css/main.5c40695d.chunk.css.map",
+    "static/js/2.5534ea12.chunk.js.LICENSE.txt": "/hotel/static/js/2.5534ea12.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/hotel/static/media/room-2.48c60181.jpeg",
+    "static/media/details-1.c4851740.jpeg": "/hotel/static/media/details-1.c4851740.jpeg",
+    "static/media/details-2.dc89255d.jpeg": "/hotel/static/media/details-2.dc89255d.jpeg",
+    "static/media/details-3.f525a3c8.jpeg": "/hotel/static/media/details-3.f525a3c8.jpeg",
+    "static/media/details-4.f2053654.jpeg": "/hotel/static/media/details-4.f2053654.jpeg",
+    "static/media/loadingGif.372b42cf.gif": "/hotel/static/media/loadingGif.372b42cf.gif",
+    "static/media/photos.3253b521.svg": "/hotel/static/media/photos.3253b521.svg",
+    "static/media/room-1.05b90599.jpeg": "/hotel/static/media/room-1.05b90599.jpeg",
+    "static/media/room-10.681615dc.jpeg": "/hotel/static/media/room-10.681615dc.jpeg",
+    "static/media/room-11.1605f19e.jpeg": "/hotel/static/media/room-11.1605f19e.jpeg",
+    "static/media/room-12.7dee4920.jpeg": "/hotel/static/media/room-12.7dee4920.jpeg",
+    "static/media/room-3.92fc5b83.jpeg": "/hotel/static/media/room-3.92fc5b83.jpeg",
+    "static/media/room-4.10d2e64a.jpeg": "/hotel/static/media/room-4.10d2e64a.jpeg",
+    "static/media/room-5.a7c5e078.jpeg": "/hotel/static/media/room-5.a7c5e078.jpeg",
+    "static/media/room-6.3697aea3.jpeg": "/hotel/static/media/room-6.3697aea3.jpeg",
+    "static/media/room-7.d2c011f0.jpeg": "/hotel/static/media/room-7.d2c011f0.jpeg",
+    "static/media/room-8.5b658df9.jpeg": "/hotel/static/media/room-8.5b658df9.jpeg",
+    "static/media/room-9.18aabe9f.jpeg": "/hotel/static/media/room-9.18aabe9f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55b95c51.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5534ea12.chunk.js",
+    "static/css/main.5c40695d.chunk.css",
+    "static/js/main.7b6c6938.chunk.js"
+  ]
+}
